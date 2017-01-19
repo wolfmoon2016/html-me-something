@@ -1,0 +1,26 @@
+body{
+    background-color: violet;
+    font-family: Verdana, sans-serif;
+}
+.special{
+    text-align: center;
+}
+#highlight{
+    text-align: center;
+}
+h1,h2,h3 {
+    font-family: Garamond, "Times New Roman", serif;
+}
+img {
+
+    padding-top: 80px;
+    padding-right: 80px;
+    padding-bottom: 80px;
+    padding-left: 250px;
+}
+main {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
